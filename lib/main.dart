@@ -14,5 +14,5 @@ class ClimaApp extends StatelessWidget {
       theme: ThemeData.dark(),
       home: LoadingScreen(),
     );
-  }//sdf
+  } //sdf
 }
