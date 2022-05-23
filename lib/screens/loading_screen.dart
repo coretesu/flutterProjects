@@ -58,7 +58,7 @@ class _LoadingScreenState extends State<LoadingScreen> {
         desiredAccuracy: LocationAccuracy.low);
     print(position);
   }
-
+//dsf
   @override
   Widget build(BuildContext context) {
     return Scaffold(
