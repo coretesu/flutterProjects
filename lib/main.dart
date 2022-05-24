@@ -12,7 +12,8 @@ class ClimaApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       theme: ThemeData.dark(),
-      home: LoadingScreen(),
+      home: const LoadingScreen(),
     );
-  } //sdf
+  } //sdfss
+
 }
